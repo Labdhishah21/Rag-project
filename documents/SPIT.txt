@@ -1,0 +1,133 @@
+ardar Patel Institute of Technology (SPIT), officially Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, is an autonomous un-aided Engineering Institute affiliated to University of Mumbai. The college was established in 1995 as an extension of its sister institute, the Sardar Patel College of Engineering, before becoming an independent unaided institute in 2005. S.P.I.T is one of the premier technical institutions of Maharashtra, offering undergraduate, postgraduate, and doctoral programs in engineering and computer applications. Dr. Bhalchandra Chaudhari is the current principal of the institution.
+
+Location
+The institute is located on 47 acres of green campus at Munshi Nagar, Bhartiya Vidya Bhavan's Campus, Andheri (West), Mumbai. The campus also houses three prominent Bhavan’s Institutions, namely Sardar Patel College of Engineering, S.P. Jain Institute of Management and Research, a management institute, and Bhavan’s College
+
+History
+
+In 1957, the Bharatiya Vidya Bhavan conceived the idea of establishing an engineering college in Mumbai. The Engineering Personnel Committee of the Planning Commission had made certain recommendations for the establishment of new engineering colleges and polytechnics, to increase the technical manpower in the country. The proposal of the Bhavan to start an engineering college was favorably received by both the Central and State Governments.
+
+On 19 August 1962, Sardar Patel College of Engineering was inaugurated by first and then Prime Minister of independent India, Pandit Jawaharlal Nehru and Kulpati Dr. K.M. Munshi, the founder of the Bharatiya Vidya Bhavan trust. In 1995 Self Financed Engineering Course was added to it and it has been conducting Electronics Engineering, Computer Engineering and Information Technology Courses from 1995-1996. The University of Mumbai desired that these self-financed courses be separated and housed in a separate building and developed as a separate self-financed entity. Thus Bharatiya Vidya Bhavan’s Sardar Patel College of Engineering, Unaided Wing from the year 2005-2006 is established in its new building under the name and style of Bharatiya Vidya Bhavan’s Sardar Patel Institute of Technology. The institute has am alumni base of 4000+ members[1] and celebrated 20 years of its contribution in the year 2015.
+
+In 2017, it was conferred with Autonomous status by Mumbai University and thus became the youngest institute affiliated to Mumbai University to achieve this.[2]
+
+Admission
+Admission to the Btech courses is via the state-level entrance examination, MHCET. A quota of seats is also reserved for All-India candidates through JEE-Mains. The institute is known for being highly selective and has among the highest cut-offs of state colleges.[3]
+
+Institute cut-offs for 2022-23.
+
+Branch	MHCET Closing Percentile	JEE-Mains Closing Percentile
+Computer Engineering	99.39	98.17
+Electronics and Telecommunications	97.93	95.86
+
+M.C.A. admissions are based on the scores in the MCA-CET.
+
+Admissions for postgraduate engineering courses are through GATE or sponsorship.
+
+Departments
+The institute offers four courses for Bachelors in technology, namely :
+
+Computer Engineering
+Computer Science and Engineering
+Electronics and Telecommunication Engineering
+The postgraduate courses offered include :
+
+Masters in Technology:
+
+Mtech in Computer Science and Engineering
+Mtech in Electronics and Telecommunication Engineering
+Masters of Computer Applications(MCA)
+
+Rankings
+University rankings
+Engineering – India
+NIRF (2024)[4]	201-300
+The National Institutional Ranking Framework (NIRF) ranked the college in 201-300 band in the engineering rankings in 2024.[5]
+
+Student bodies
+The Students' Council is the primary student representative body. The general secretary and the cultural secretary are mainly responsible for the smooth conduct of these activities. They work under the guidance of the Vice President (who is a professor). The sports secretaries of the council also organize various sports events during the academic year.
+
+Each stream has its own student body -
+
+Institute of Electrical and Electronics Engineers (IEEE)
+ACE Committee (MCA)
+Computer Society Of India (CSI) [6]
+Institute of Electronics and Telecommunication Engineers (IETE)
+Forum for Aspiring Computer Engineers (FACE) [7]
+Electronics Students Association(ESA)
+Information Technology Students Association (ITSA) [8]
+Forum for Electronics and Telecommunication Students (FETS)
+The technical committees of CSI, ITSA and the Coding Club organize coding events and promote hackathons and coding culture.[9] Annually, the institute hosts the SPIT Hackathon.
+
+This college has a social club: Rotaract Club of Sardar Patel Institute of Technology (RC-SPIT) affiliated to Rotary Club of Bombay Juhu and Rotary International.
+
+Apart from departmental committees, the college also has an interdepartmental committee called Women In Engineering (WIE), which works towards women empowerment and organizes events, informative seminars, and sessions for teaching, non-teaching staff, and the students of the college.[10]
+
+The college supports entrepreneurship and has an Entrepreneurship-Cell(E-CELL) affiliated to National Entrepreneurship Network(NEN).
+
+Informal clubs and associations
+SPark: SPark is the official college editorial of Sardar Patel Institute of Technology and annually releases a magazine.[11][12]
+English Literary Association (ELA): Founded in 2020 to pursue and promote literary arts.
+Sardar Patel Quiz Club (SPQC): SPQC organizes inter-departmental quizzes.
+The Debate Society: It was established as a club to encourage a debating culture, help with communication and elocution skills.
+Finance and Analytics Club, S.P.I.T
+Mudra, the cultural club of S.P.I.T, conducts various events and activities to promote dance, music, and fine arts.
+College festivals
+SPIT hosts its annual techno-cultural fest, Oculus. Oculus is conducted in January with a footfall of 3000-4000. The festival ties up with several non-profit organizations and NGOs to promulgate and contribute towards several charitable causes.[13]
+
+S.P.I.T also hosts its own inter-college sports fest, SPoorthi, in February.
+
+Facilities and infrastructure
+
+Central Library along with Departmental Library, with over 22000 books and 8000 e-books
+Indoor Gymkhana
+Cricket/Football ground
+Volleyball court
+Product Development Centre
+Dedicated placement cell and Industry relations cell[14][15]
+Business Incubator
+Open Amphitheatre
+Campus lake and park
+Yoga Center
+Institute of Holistic Health Science
+Bank and ATM
+Mess and Cafeteria
+MoUs and Tie ups
+IT MNC: The institute is recognized as Center of Excellence (CoE) by the IBM Academic Initiative. The institute has also signed MOU with IBM, Wipro, and has a continuing association with TCS. The institute is also one of the few Nvidia GPU Research Centers in India.
+Electronics and Telecom MNC: The institute has signed an MOU with Texas Instruments for setting up a lab and an MOU with Sony Ericsson for training telecom students
+The institute has signed an MOU with Gadhia Solar Systems for an R&D project on solar energy
+Host lectures by UK universities under the British Council mission 2015
+Center for Research in Neuromorphic Engineering (CRINE)
+Sardar Patel Institute of Technology started CRINE with the mission of driving innovation through learning from neurons. The objective of this center is to promote research in neuromorphic engineering, promote collaboration between colleges and disciplines, and enhance industry-institute interaction. The institute has also signed MOU with Eduvance and the center is supported by Cypress Semiconductors University Alliance Program. For the first time faculty and students from different departments of VJTI (Matunga), SPIT (Andheri) and Fr. CRCE (Bandra) started working together in multidisciplinary areas.
+
+Visvesvaraya National Institute of Technology, Nagpur (VNIT) for collaborative efforts on the following:
+1. Cooperation for Dissemination of Knowledge
+2. Joint Research Projects
+3. Exchange of Faculty
+4. Knowledge Sharing
+5. Utilization of Academic Infrastructure
+Awards and honors received by faculty and institute
+Dr. Dhananjay Kalbande, awarded Post-Doctorate fellowship by Tata Institute of Social Sciences
+Technology Business Incubator
+The Technology Business Incubation Centre was established in 2009. It is an initiative to nurture a culture of entrepreneurship within the college and serves as an incubation center for various startups.[16] SP-TBI is an initiative of Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology and is affiliated with the Department of Science and Technology, Govt of India. The incubated start-ups are provided infrastructure, technology support, seed funding, talent pool, mentoring, training, and more.
+
+The institute received a grant of Rs 4.17 crore[17] from the Department of Science & Technology (DST) for TBI which would be used to support students from both in-house and other institutes to set up businesses.
+
+
+Companies Benefitted:-
+
+Mime360, Acquired by Flipkart[18]
+Pykih
+Nexchanges
+Kias Tech
+Go Hero Go
+Fore Hotels
+Scholr (Acquired by Byju's)[19]
+WorkIndia [20]
+Notable alumni
+Mohit Lad, CEO of ThousandEyes[21]
+Rahul Chari, Founder and CTO, PhonePe
+Samir Nigam, CEO, Co founder PhonePe
+Dalvir Suri, Co-Founder, Dunzo
+Shefali Jariwala, Indian actress and dancer
+Saurabh Netravalkar, American cricketer
