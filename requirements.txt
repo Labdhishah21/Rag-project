@@ -3,3 +3,6 @@ langchain-community
 langchain-openai
 chromadb
 python-dotenv
+streamlit
+groq
+langchain-huggingface
