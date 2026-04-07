@@ -1,0 +1,39 @@
+PayU is a Netherlands-based payment service provider to online merchants.[1][2] The company was founded in 2002,[3] and is headquartered in Hoofddorp. It allows online businesses to accept and process payments through payment methods that can be integrated with web and mobile applications.[4][5] As of 2018, the service is available in 17 countries.[6] The firm is owned by the Naspers Group, which also owns a stake in one of its sister companies, Tencent.[7][8]
+
+History
+PayU is the result of multiple payment gateways in various regions of the world that have been acquired and brought into the PayU group.[9][10][11] In 2014, all online payment companies that were part of Naspers started operating under the PayU brand.
+
+In 2022, it fired about 150 employees, approximately 6% of its workforce.[12]
+
+In 2023, PayU sold its global payments business, other than those in its core markets of India, Southeast Asia and Turkey, to Rapyd for $610 million.[13]
+
+Investment and acquisitions
+Acquired Zooz, an Israeli startup that provides an API to merchants.[14]
+Acquired Indian payments services provider, Citrus Pay in September 2016 for $130M.[15][16]
+Investment of €110M in German fintech company Kreditech, which provides machine-learning-based underwriting.[17][18]
+PayU led a $115M funding round of Seattle-based Remitly, a remittance company.[19][20]
+Series A investment of $3.7M in ZestMoney, a provider of consumer finance for online purchases.[21]
+Invested $5.3M in Indian fintech startup PaySense in May 2017[22]
+Investment of R$60M in online credit platform Creditas (ex-BankFacil)[23][24]
+2011, acquired Romanian online payments company GECAD ePayments[25][26]
+2019, acquired US-based digital financial security firm Wibmo for $70M[27]
+2019, acquired Turkish digital payments company Iyzico for $165M[28]
+2020, acquired Indian fintech startup PaySense for $185M[29]
+2025, PayU acquires 43.5% stake in Mumbai-based Mindgate Solutions.[30]
+Operations
+Europe
+In November 2006, PayU SA was established and the Polish firm Platnosci.pl was merged into the group. The company also has a partnership with Iwoca to make financing for SME firms easier.[31] In 2010, the company expanded to the Czech Republic. In 2011, the company expanded to Romania. In 2012, it began its operations in Russia, Ukraine, Turkey, Slovakia and Hungary.[32]
+
+Latin America
+In 2002, Pagosonline was founded in Colombia by Jose Velez, Martin Schrimpff and Santiago Spinel.[citation needed]
+
+In 2010, PagosOnline sold a majority stake to Buscapé, which was a part of the Naspers Group.[33] In 2011, Naspers acquired the majority stake in DineroMail.[34] In 2013, Naspers acquired the rest of the shares of DineroMail.[35] In 2012, Naspers acquired Pagosonline, replacing the former two with a new payment platform that eventually was rebranded PayU Latam, which begun operations in Panama and Peru.[36] During the course of 2013 and 2014, PayU Latam and DineroMail merged.[37][38] In 2016, Bcash and PayU, were merged under the PayU brand in Brazil.[39]
+
+Africa
+PayJar was founded in South Africa in 2010, as part of the Naspers group to help other Naspers companies process online payments. In 2011, PayJar was rebranded to PayU.[40] In 2015, PayU expanded its operations to Nigeria.[41][42]
+
+India
+In 2011, Ibibo in conjunction with co-founders Nitin Gupta, Narendra Nandal and Shailaz Nag, rolled out a payment gateway, PayU, in the Indian market to permit websites to integrate e-commerce transactions through online payments. A lawsuit filed against the company in February 2026 by domestic competitor RazorPay alleging that PayU's advertisement campaign in the country imitated RazorPay's IPL 2025 advertisements resulted in a declination to grant interim injunction by the Delhi High Court. [43][44][45]
+
+Products and services
+PayU is a regulated financial institution. It holds licenses from central banks and local regulators. PayU's products include a PCI-DSS certified payment gateway,[46][47] an anti-fraud system and an online Visa/MasterCard acquirer.[48][49][50]
